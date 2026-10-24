@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "about": "The researched entries of EnforcementAircraft. Additions only: an entry leaves the list only when it is found NOT to be involved, and then stays here with status cleared and the reason.",
+  "entries": [
+    {
+      "id": "us-federal-law-enforcement",
+      "kind": "rule",
+      "name": "Federal law-enforcement registrants",
+      "short": null,
+      "rule": "Every aircraft in the FAA Releasable Aircraft Database registered to a federal law-enforcement agency (Department of Homeland Security and its components, Customs and Border Protection, Immigration and Customs Enforcement, the Department of Justice and its components, the US Marshals Service), or to a contractor operator named in contractor_operators. A private registrant is named there only when a cited document backs it.",
+      "contractor_operators": [],
+      "status": "sourced",
+      "evidence": [
+        {"date": null, "what": "Registered to the agency, or to its named contractor operator, in the FAA aircraft registry.", "source_url": "https://registry.faa.gov/database/ReleasableAircraft.zip"}
+      ],
+      "added": "2026-10-23",
+      "cleared": null
+    },
+    {
+      "id": "us-tx-dps",
+      "kind": "agency",
+      "name": "Texas Department of Public Safety, Aircraft Operations Division",
+      "short": "TX DPS",
+      "owner_names": ["TEXAS DEPARTMENT OF PUBLIC SAFETY", "DEPARTMENT OF PUBLIC SAFETY OF THE STATE OF TEXAS"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2023-01-27", "what": "Texas governor's Operation Lone Star release: DPS aircraft helped apprehend 15 people, all referred to Border Patrol.", "source_url": "https://gov.texas.gov/news/post/operation-lone-star-deploys-hi-tech-assets-to-stop-illegal-crossings"},
+        {"date": "2026-07-09", "what": "A DPS helicopter flew overhead during a Liberty County Precinct 4 Constable operation with ICE; the people it spotted were caught and turned over to ICE.", "source_url": "https://bluebonnetnews.com/2026/07/09/liberty-county-pct-4-ice-capture-12-illegal-aliens-in-dayton-area/"}
+      ],
+      "added": "2026-10-23",
+      "cleared": null
+    },
+    {
+      "id": "us-fl-fhp",
+      "kind": "agency",
+      "name": "Florida Highway Patrol, Aviation",
+      "short": "FHP",
+      "owner_names": ["FLORIDA HIGHWAY PATROL", "DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-29", "what": "At a governor's briefing, officials said an operation based at the Davie FHP station included ICE, Border Patrol and Florida Highway Patrol aviation.", "source_url": "https://www.wctv.tv/2026/05/29/desantis-highlights-immigration-enforcement-expansion/"}
+      ],
+      "added": "2026-10-23",
+      "cleared": null
+    },
+    {
+      "id": "us-fl-fsg",
+      "kind": "agency",
+      "name": "Florida State Guard, Aviation",
+      "short": "FSG",
+      "owner_names": ["FLORIDA STATE GUARD"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-29", "what": "The same briefing listed State Guard aviation among the participants in the operation with ICE and Border Patrol.", "source_url": "https://www.wctv.tv/2026/05/29/desantis-highlights-immigration-enforcement-expansion/"}
+      ],
+      "added": "2026-10-23",
+      "cleared": null
+    },
+    {
+      "id": "us-az-pinal-so",
+      "kind": "agency",
+      "name": "Pinal County Sheriff's Office, Arizona",
+      "short": "Pinal Sheriff",
+      "owner_names": ["PINAL COUNTY SHERIFFS OFFICE", "PINAL COUNTY SHERIFF DEPT"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2019-04-26", "what": "Pinal Air 1, flying under Operation Stonegarden (a DHS grant to border counties), carried Border Patrol agents who found a group of 18 people. Reporting more than five years old.", "source_url": "https://www.tucsonsentinel.com/local/report/042619_pcso_bp/"}
+      ],
+      "added": "2026-10-23",
+      "cleared": null
+    },
+    {
+      "id": "us-homeland-aviation-llc",
+      "kind": "agency",
+      "name": "Homeland Aviation LLC, Shreveport, Louisiana",
+      "short": null,
+      "owner_names": ["HOMELAND AVIATION LLC"],
+      "status": "cleared",
+      "evidence": [
+        {"date": "2026-10-23", "what": "Was listed as a federal contractor operator on its name alone.", "source_url": null}
+      ],
+      "added": "2026-10-23",
+      "cleared": {"date": "2026-10-23", "why": "A private LLC at a Shreveport street address that owns light piston aircraft (N462WC, a 2012 Aviat A-1C-200 Husky). USAspending.gov holds no federal contract, contract vehicle or grant to any recipient of that name (searched 2026-10-23; only SBA pandemic small-business aid), and no reporting links it to DHS or any federal agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=462WC"}
+    },
+    {
+      "id": "us-cbp-air-logistics-llc",
+      "kind": "agency",
+      "name": "CBP Air Logistics LLC, Statham, Georgia",
+      "short": null,
+      "owner_names": ["CBP AIR LOGISTICS LLC"],
+      "status": "cleared",
+      "evidence": [
+        {"date": "2026-10-23", "what": "Was listed as a federal contractor operator on its name alone.", "source_url": null}
+      ],
+      "added": "2026-10-23",
+      "cleared": {"date": "2026-10-23", "why": "Not Customs and Border Protection. Its own court complaint says it is a Georgia LLC managed and wholly owned by a private individual, and the sole owner of a Citation CJ4 (N150RC).", "source_url": "https://www.lieffcabraser.com/pdf/TextronAviationComplaint-File-Stamped.pdf"}
+    }
+  ]
+}
