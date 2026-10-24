@@ -1,0 +1,75 @@
+name: Detection report
+description: An aircraft your Live Track Enforcement Aircraft install flagged. Filled in for you.
+title: "Detection: [hex]"
+labels: ["detection"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Your Home Assistant filled in this report from what its detector saw.
+
+        **Please do not change the filled-in fields.** We check them against the
+        detector's own record, and a changed field makes the report unusable. If you
+        know something more, write it in **Your note** at the bottom.
+
+        **This issue is public** while it is open: anyone can read it, and it shows
+        your GitHub name. The position below is the aircraft's, not your home's.
+
+        **What happens next:** we review it against public sources. Nothing is added
+        to the EnforcementAircraft list until it is confirmed. **Once we have
+        processed it, we delete this issue.** People who watch this repository may
+        already have received a copy by email.
+  - type: input
+    id: hex
+    attributes:
+      label: Mode S address (hex)
+    validations:
+      required: true
+  - type: input
+    id: registration
+    attributes:
+      label: Registration, if known
+  - type: input
+    id: seen
+    attributes:
+      label: When it was seen (UTC)
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where the aircraft was (latitude, longitude, rounded)
+    validations:
+      required: true
+  - type: textarea
+    id: seen_doing
+    attributes:
+      label: What the detector saw
+      description: A description, not the aircraft's track.
+    validations:
+      required: true
+  - type: input
+    id: detector
+    attributes:
+      label: Detector version
+    validations:
+      required: true
+  - type: input
+    id: check
+    attributes:
+      label: Check code
+      description: Computed from the fields above, so we can tell they arrived as sent.
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Your note (optional)
+      description: Anything you know or saw yourself. This is the place to add to the report.
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I contribute this report under the Open Database License (ODbL) v1.0, the EnforcementAircraft list's licence.
+          required: true
