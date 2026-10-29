@@ -220,6 +220,160 @@
       ],
       "added": "2026-10-28",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2c4e0",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N278GX, hex A2C4E0",
+      "short": "ICE",
+      "hex": "a2c4e0",
+      "registration": "N278GX",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2025-03-15", "what": "Three GlobalX aircraft, N278GX, N837VA and N630VA, moved Venezuelans held at the El Valle Detention Center on 2025-03-15.", "source_url": "https://en.wikipedia.org/wiki/Global_Crossing_Airlines"},
+        {"date": null, "what": "ICE books its charter flights through the broker CSI Aviation, which hires GlobalX and Eastern Air Express for most of them.", "source_url": "https://www.yahoo.com/news/budget-airline-begins-deportation-flights-040848431.html"},
+        {"date": "2026-10-21", "what": "FAA registry: N278GX is registered to UMB BANK NA TRUSTEE, a Airbus A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=278GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a83f98",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N630VA, hex A83F98",
+      "short": "ICE",
+      "hex": "a83f98",
+      "registration": "N630VA",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2025-03-15", "what": "Three GlobalX aircraft, N278GX, N837VA and N630VA, moved Venezuelans held at the El Valle Detention Center on 2025-03-15.", "source_url": "https://en.wikipedia.org/wiki/Global_Crossing_Airlines"},
+        {"date": null, "what": "ICE books its charter flights through the broker CSI Aviation, which hires GlobalX and Eastern Air Express for most of them.", "source_url": "https://www.yahoo.com/news/budget-airline-begins-deportation-flights-040848431.html"},
+        {"date": "2026-10-21", "what": "FAA registry: N630VA is registered to BANK OF UTAH TRUSTEE, a Airbus A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=630VA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ab7437",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N837VA, hex AB7437",
+      "short": "ICE",
+      "hex": "ab7437",
+      "registration": "N837VA",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2025-03-15", "what": "Three GlobalX aircraft, N278GX, N837VA and N630VA, moved Venezuelans held at the El Valle Detention Center on 2025-03-15.", "source_url": "https://en.wikipedia.org/wiki/Global_Crossing_Airlines"},
+        {"date": null, "what": "ICE books its charter flights through the broker CSI Aviation, which hires GlobalX and Eastern Air Express for most of them.", "source_url": "https://www.yahoo.com/news/budget-airline-begins-deportation-flights-040848431.html"},
+        {"date": "2026-10-21", "what": "FAA registry: N837VA is registered to BANK OF UTAH TRUSTEE, a Airbus A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=837VA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ad7274",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A321-211 N966AD, hex AD7274",
+      "short": "ICE",
+      "hex": "ad7274",
+      "registration": "N966AD",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A321",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2025-04-23", "what": "N966AD (hex AD7274), a GlobalX A321, was photographed at Minneapolis-St Paul loading about 30 people in shackles; that day it flew Alexandria (AEX) - MSP - Omaha - Harlingen - AEX.", "source_url": "https://ottergoose.net/ice-flights-msp/"},
+        {"date": null, "what": "ICE books its charter flights through the broker CSI Aviation, which hires GlobalX and Eastern Air Express for most of them.", "source_url": "https://www.yahoo.com/news/budget-airline-begins-deportation-flights-040848431.html"},
+        {"date": "2026-10-21", "what": "FAA registry: N966AD is registered to BANK OF UTAH TRUSTEE, a Airbus A321-211.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=966AD"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a8b479",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-7BD N660CP, hex A8B479",
+      "short": "ICE",
+      "hex": "a8b479",
+      "registration": "N660CP",
+      "owner": "EASTERN AIR EXPRESS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B737",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-02-28", "what": "Minnesota 50501 posted the track of hex A8B479 as a confirmed ICE deportation flight into MSP on 2026-02-28, without naming the tail; the FAA registry gives A8B479 as N660CP.", "source_url": "https://www.threads.com/@minnesota50501/post/DVTzESnkQr8/confirmed-ice-deportation-flight-coming-to-msp-sat-feb-estimated-arrival-pm"},
+        {"date": null, "what": "ICE books its charter flights through the broker CSI Aviation, which hires GlobalX and Eastern Air Express for most of them.", "source_url": "https://www.yahoo.com/news/budget-airline-begins-deportation-flights-040848431.html"},
+        {"date": "2026-10-21", "what": "FAA registry: N660CP is registered to EASTERN AIR EXPRESS LLC, a Boeing 737-7BD.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=660CP"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "avelo-ice-charter-aae7b3",
+      "kind": "aircraft",
+      "name": "Avelo Boeing 737-800 N801XT, hex AAE7B3",
+      "short": null,
+      "hex": "aae7b3",
+      "registration": "N801XT",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "Avelo Airlines",
+      "icao_type": "B738",
+      "status": "cleared",
+      "evidence": [
+        {"date": "2025-05-12", "what": "Avelo began ICE charter flights from Mesa Gateway (AZA) with three Boeing 737-800s, N801XT, N804VL and N805VL, repainted all white without Avelo's titles.", "source_url": "https://onemileatatime.com/news/avelo-deportation-flights-shame-white-737/"},
+        {"date": "2026-01-21", "what": "Human Rights First counted more than 1,900 ICE flights by Avelo from May to December 2025.", "source_url": "https://www.kjzz.org/fronteras-desk/2026-01-21/new-report-shows-avelo-airlines-operated-1-900-flights-for-ice-between-may-to-december-2025"},
+        {"date": "2025-05-13", "what": "N801XT was the first Avelo aircraft on ICE flights, by Flightradar24 data, painted white.", "source_url": "https://airlinegeeks.com/2025/05/13/avelo-begins-flights-for-ice/"},
+        {"date": "2026-10-21", "what": "FAA registry: N801XT is registered to BANK OF UTAH TRUSTEE, a Boeing 737-800.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=801XT"}
+      ],
+      "added": "2026-10-29",
+      "cleared": {"date": "2026-10-29", "why": "Avelo closed its Mesa Gateway base on 2026-01-27 and ended its part in the DHS charter program. Flight trackers show its white 737-800s back on Avelo's scheduled passenger flights in mid-2026, and no ICE flight by them after January was found (searched 2026-10-29). Cleared as no longer involved, not as never involved.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"}
+    },
+    {
+      "id": "avelo-ice-charter-aaf29f",
+      "kind": "aircraft",
+      "name": "Avelo Boeing 737-86N N804VL, hex AAF29F",
+      "short": null,
+      "hex": "aaf29f",
+      "registration": "N804VL",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "Avelo Airlines",
+      "icao_type": "B738",
+      "status": "cleared",
+      "evidence": [
+        {"date": "2025-05-12", "what": "Avelo began ICE charter flights from Mesa Gateway (AZA) with three Boeing 737-800s, N801XT, N804VL and N805VL, repainted all white without Avelo's titles.", "source_url": "https://onemileatatime.com/news/avelo-deportation-flights-shame-white-737/"},
+        {"date": "2026-01-21", "what": "Human Rights First counted more than 1,900 ICE flights by Avelo from May to December 2025.", "source_url": "https://www.kjzz.org/fronteras-desk/2026-01-21/new-report-shows-avelo-airlines-operated-1-900-flights-for-ice-between-may-to-december-2025"},
+        {"date": "2025-12-16", "what": "N804VL photographed in plain white at Boeing Field, arriving weekly from Mesa as VXP53 on ICE work.", "source_url": "https://www.airhistory.net/photo/880675/N804VL"},
+        {"date": "2026-10-21", "what": "FAA registry: N804VL is registered to BANK OF UTAH TRUSTEE, a Boeing 737-86N.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=804VL"}
+      ],
+      "added": "2026-10-29",
+      "cleared": {"date": "2026-10-29", "why": "Avelo closed its Mesa Gateway base on 2026-01-27 and ended its part in the DHS charter program. Flight trackers show its white 737-800s back on Avelo's scheduled passenger flights in mid-2026, and no ICE flight by them after January was found (searched 2026-10-29). Cleared as no longer involved, not as never involved.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"}
+    },
+    {
+      "id": "avelo-ice-charter-aaf656",
+      "kind": "aircraft",
+      "name": "Avelo Boeing 737-86N N805VL, hex AAF656",
+      "short": null,
+      "hex": "aaf656",
+      "registration": "N805VL",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "Avelo Airlines",
+      "icao_type": "B738",
+      "status": "cleared",
+      "evidence": [
+        {"date": "2025-05-12", "what": "Avelo began ICE charter flights from Mesa Gateway (AZA) with three Boeing 737-800s, N801XT, N804VL and N805VL, repainted all white without Avelo's titles.", "source_url": "https://onemileatatime.com/news/avelo-deportation-flights-shame-white-737/"},
+        {"date": "2026-01-21", "what": "Human Rights First counted more than 1,900 ICE flights by Avelo from May to December 2025.", "source_url": "https://www.kjzz.org/fronteras-desk/2026-01-21/new-report-shows-avelo-airlines-operated-1-900-flights-for-ice-between-may-to-december-2025"},
+        {"date": "2026-10-21", "what": "FAA registry: N805VL is registered to BANK OF UTAH TRUSTEE, a Boeing 737-86N.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=805VL"}
+      ],
+      "added": "2026-10-29",
+      "cleared": {"date": "2026-10-29", "why": "Avelo closed its Mesa Gateway base on 2026-01-27 and ended its part in the DHS charter program. Flight trackers show its white 737-800s back on Avelo's scheduled passenger flights in mid-2026, and no ICE flight by them after January was found (searched 2026-10-29). Cleared as no longer involved, not as never involved.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"}
     }
   ]
 }
