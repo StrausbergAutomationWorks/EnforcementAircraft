@@ -374,6 +374,1476 @@
       ],
       "added": "2026-10-29",
       "cleared": {"date": "2026-10-29", "why": "Avelo closed its Mesa Gateway base on 2026-01-27 and ended its part in the DHS charter program. Flight trackers show its white 737-800s back on Avelo's scheduled passenger flights in mid-2026, and no ICE flight by them after January was found (searched 2026-10-29). Cleared as no longer involved, not as never involved.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"}
+    },
+    {
+      "id": "ice-air-charter-a2bd72",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N276GX, hex A2BD72",
+      "short": "ICE",
+      "hex": "a2bd72",
+      "registration": "N276GX",
+      "owner": "FALCON MSN 2695 TRUST",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N276GX, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N276GX is registered to FALCON MSN 2695 TRUST, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=276GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2c129",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A321-231 N277GX, hex A2C129",
+      "short": "ICE",
+      "hex": "a2c129",
+      "registration": "N277GX",
+      "owner": "WILMINGTON TRUST CO TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A321",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N277GX, an A321 with 183 seats, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N277GX is registered to WILMINGTON TRUST CO TRUSTEE, a AIRBUS A321-231.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=277GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2d25e",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N281GX, hex A2D25E",
+      "short": "ICE",
+      "hex": "a2d25e",
+      "registration": "N281GX",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N281GX, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N281GX is registered to UMB BANK NA TRUSTEE, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=281GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2d615",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N282GX, hex A2D615",
+      "short": "ICE",
+      "hex": "a2d615",
+      "registration": "N282GX",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N282GX, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N282GX is registered to UMB BANK NA TRUSTEE, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=282GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2e13a",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A319-112 N285GX, hex A2E13A",
+      "short": "ICE",
+      "hex": "a2e13a",
+      "registration": "N285GX",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A319",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N285GX, an A319, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N285GX is registered to UMB BANK NA TRUSTEE, a AIRBUS A319-112.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=285GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2f016",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N289GX, hex A2F016",
+      "short": "ICE",
+      "hex": "a2f016",
+      "registration": "N289GX",
+      "owner": "TVPX AIRCRAFT SOLUTIONS INC TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "airframe",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N289GX, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": null, "what": "Spotted as TYSON43, an A320 ICE charter flight on GlobalX's N289GX, on ADS-B Exchange; another post had TYSON43 out of Houston on approach to Guatemala City.", "source_url": "https://forums.radioreference.com/threads/mid-atlantic-and-beyond-milair-2025.483119/page-164"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N289GX is registered to TVPX AIRCRAFT SOLUTIONS INC TRUSTEE, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=289GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a2f9dd",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N291GX, hex A2F9DD",
+      "short": "ICE",
+      "hex": "a2f9dd",
+      "registration": "N291GX",
+      "owner": "GLOBAL CROSSING AIRLINES INC",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N291GX, an A320, in its own fleet brochure; the FAA registers it to Global Crossing Airlines Inc.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N291GX is registered to GLOBAL CROSSING AIRLINES INC, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=291GX"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a68e3d",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-232 N521SH, hex A68E3D",
+      "short": "ICE",
+      "hex": "a68e3d",
+      "registration": "N521SH",
+      "owner": "GLOBAL CROSSING AIRLINES INC",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-21", "what": "The FAA registers N521SH, an A320, to Global Crossing Airlines Inc (certificate 2025-09-25).", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=521SH"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N521SH is registered to GLOBAL CROSSING AIRLINES INC, a AIRBUS A320-232.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=521SH"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a6b0f5",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A321-231 N530FL, hex A6B0F5",
+      "short": "ICE",
+      "hex": "a6b0f5",
+      "registration": "N530FL",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A321",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N530FL, an A321-231 leased from FTAI, active with GlobalX since 2025-02-07.", "source_url": "https://www.airfleets.net/flottecie/GlobalX%20Air-active-a321.htm"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N530FL is registered to BANK OF UTAH TRUSTEE, a AIRBUS INDUSTRIE A321-231.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=530FL"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a75013",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A321-231 N570TA, hex A75013",
+      "short": "ICE",
+      "hex": "a75013",
+      "registration": "N570TA",
+      "owner": "BANK OF UTAH TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A321",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N570TA, an A321 with 200 seats, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N570TA is registered to BANK OF UTAH TRUSTEE, a AIRBUS A321-231.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=570TA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a835d1",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N628VA, hex A835D1",
+      "short": "ICE",
+      "hex": "a835d1",
+      "registration": "N628VA",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N628VA, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N628VA is registered to UMB BANK NA TRUSTEE, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=628VA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a86e85",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A320-214 N642VA, hex A86E85",
+      "short": "ICE",
+      "hex": "a86e85",
+      "registration": "N642VA",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A320",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-08", "what": "GlobalX lists N642VA, an A320, in its own fleet brochure.", "source_url": "https://globalxair.com/wp-content/uploads/2024/08/GC-Brochure-24-Update-V7.pdf"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N642VA is registered to UMB BANK NA TRUSTEE, a AIRBUS A320-214.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=642VA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a35e5b",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A319-111 N316NV, hex A35E5B",
+      "short": "ICE",
+      "hex": "a35e5b",
+      "registration": "N316NV",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A319",
+      "basis": "airframe",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-03-31", "what": "GlobalX announced N316NV (MSN 2481), the first of four leased A319s, in revenue service.", "source_url": "https://lifestyle.kbew98country.com/story/145211/global-crossing-airlines-reports-fleet-expansion-milestones-and-participation-in-upcoming-investor-conferences/"},
+        {"date": "2026-08-03", "what": "Flightradar24's history shows N316NV flying Alexandria (AEX), Tapachula, Harlingen and Akron at the end of July and start of August 2026, the ICE hubs' pattern.", "source_url": "https://www.flightradar24.com/data/aircraft/n316nv"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N316NV is registered to UMB BANK NA TRUSTEE, a AIRBUS A319-111.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=316NV"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a365c9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A319-111 N318NV, hex A365C9",
+      "short": "ICE",
+      "hex": "a365c9",
+      "registration": "N318NV",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A319",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-07-17", "what": "N318NV (MSN 2492), an A319 photographed in GlobalX service in July 2026, is one of the four A319s GlobalX announced under lease.", "source_url": "https://www.jetphotos.com/airline/Global%20X"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N318NV is registered to UMB BANK NA TRUSTEE, a AIRBUS A319-111.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=318NV"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a36980",
+      "kind": "aircraft",
+      "name": "ICE Air charter: GlobalX Airbus A319-111 N319NV, hex A36980",
+      "short": "ICE",
+      "hex": "a36980",
+      "registration": "N319NV",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "GlobalX",
+      "icao_type": "A319",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-06-26", "what": "N319NV (MSN 2503), an A319 photographed in GlobalX service in June 2026, is one of the four A319s GlobalX announced under lease.", "source_url": "https://www.jetphotos.com/airline/Global%20X"},
+        {"date": "2026-01-08", "what": "GlobalX flew more than half of DHS's charter flights in 2025 (ICE Flight Monitor, Human Rights First), as a subcontractor of the broker CSI Aviation.", "source_url": "https://www.cbsnews.com/news/avelo-stops-ice-deportation-flights"},
+        {"date": "2026-10-21", "what": "FAA registry: N319NV is registered to UMB BANK NA TRUSTEE, a AIRBUS A319-111.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=319NV"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a542a9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-4B7 N438US, hex A542A9",
+      "short": "ICE",
+      "hex": "a542a9",
+      "registration": "N438US",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N438US is listed in Eastern Air Express's active fleet.", "source_url": "https://www.flightradar24.com/data/airlines/bbq/fleet"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N438US is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-4B7.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=438US"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aaeafd",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-4B7 N802TJ, hex AAEAFD",
+      "short": "ICE",
+      "hex": "aaeafd",
+      "registration": "N802TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N802TJ is listed in Eastern Air Express's active fleet.", "source_url": "https://www.planespotters.net/photos/fleet/Eastern-Air-Express/boeing-737-400"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N802TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-4B7.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=802TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aaf26b",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-401 N804TJ, hex AAF26B",
+      "short": "ICE",
+      "hex": "aaf26b",
+      "registration": "N804TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N804TJ is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N804TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-401.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=804TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aafd90",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-4Q8 N807TJ, hex AAFD90",
+      "short": "ICE",
+      "hex": "aafd90",
+      "registration": "N807TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N807TJ is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N807TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-4Q8.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=807TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ab0147",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-4Q8 N808TJ, hex AB0147",
+      "short": "ICE",
+      "hex": "ab0147",
+      "registration": "N808TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N808TJ is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N808TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-4Q8.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=808TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a357bb",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-484 N314XA, hex A357BB",
+      "short": "ICE",
+      "hex": "a357bb",
+      "registration": "N314XA",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N314XA is listed in Eastern Air Express's active fleet.", "source_url": "https://www.planespotters.net/photos/fleet/Eastern-Air-Express/boeing-737-400"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N314XA is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-484.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=314XA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a82727",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-86J N624XA, hex A82727",
+      "short": "ICE",
+      "hex": "a82727",
+      "registration": "N624XA",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B738",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N624XA is listed in Eastern Air Express's active fleet.", "source_url": "https://www.flightradar24.com/data/airlines/bbq/fleet"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N624XA is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-86J.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=624XA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a82a75",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-3H4 N625SW, hex A82A75",
+      "short": "ICE",
+      "hex": "a82a75",
+      "registration": "N625SW",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B733",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N625SW is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N625SW is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-3H4.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=625SW"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a831e3",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-3H4 N627SW, hex A831E3",
+      "short": "ICE",
+      "hex": "a831e3",
+      "registration": "N627SW",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B733",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N627SW is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N627SW is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-3H4.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=627SW"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a83951",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-3H4 N629SW, hex A83951",
+      "short": "ICE",
+      "hex": "a83951",
+      "registration": "N629SW",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B733",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N629SW is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N629SW is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-3H4.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=629SW"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ad563d",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-7BD N959BP, hex AD563D",
+      "short": "ICE",
+      "hex": "ad563d",
+      "registration": "N959BP",
+      "owner": "EASTERN AIR EXPRESS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B737",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N959BP is listed in Eastern Air Express's active fleet.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737ng-0-dddesc.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N959BP is registered to EASTERN AIR EXPRESS LLC, a BOEING 737-7BD.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=959BP"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-acb2ba",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-86J N917XA, hex ACB2BA",
+      "short": "ICE",
+      "hex": "acb2ba",
+      "registration": "N917XA",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B738",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2024-07-18", "what": "N917XA, Eastern Air Express's first 737-800, entered service in July 2024.", "source_url": "https://www.ch-aviation.com/news/142947-uss-eastern-air-express-adds-maiden-b737-800"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N917XA is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-86J.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917XA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a0c62d",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-484 N149XA, hex A0C62D",
+      "short": "ICE",
+      "hex": "a0c62d",
+      "registration": "N149XA",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N149XA is photographed in Eastern Air Express service at Miami.", "source_url": "https://www.airfleets.net/flottecie/Eastern%20Air%20Express-active-b737.htm"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N149XA is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-484.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=149XA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a35404",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-484 N313XA, hex A35404",
+      "short": "ICE",
+      "hex": "a35404",
+      "registration": "N313XA",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "The FAA registers N313XA, a 737-400, to Eastern 737 Asset Holdings LLC, the Eastern Air Holdings subsidiary that bought Swift Air's 737s.", "source_url": "https://www.ch-aviation.com/news/142947-uss-eastern-air-express-adds-maiden-b737-800"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N313XA is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-484.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=313XA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aaeeb4",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-400 N803TJ, hex AAEEB4",
+      "short": "ICE",
+      "hex": "aaeeb4",
+      "registration": "N803TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "The FAA registers N803TJ, a 737-400, to Eastern 737 Asset Holdings LLC, the Eastern Air Holdings subsidiary that bought Swift Air's 737s.", "source_url": "https://www.ch-aviation.com/news/142947-uss-eastern-air-express-adds-maiden-b737-800"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N803TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-400.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=803TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aaf9d9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-490 N806TJ, hex AAF9D9",
+      "short": "ICE",
+      "hex": "aaf9d9",
+      "registration": "N806TJ",
+      "owner": "EASTERN 737 ASSET HOLDINGS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B734",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "The FAA registers N806TJ, a 737-400, to Eastern 737 Asset Holdings LLC, the Eastern Air Holdings subsidiary that bought Swift Air's 737s.", "source_url": "https://www.ch-aviation.com/news/142947-uss-eastern-air-express-adds-maiden-b737-800"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N806TJ is registered to EASTERN 737 ASSET HOLDINGS LLC, a BOEING 737-490.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=806TJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a8d231",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Air Express Boeing 737-76N N668CP, hex A8D231",
+      "short": "ICE",
+      "hex": "a8d231",
+      "registration": "N668CP",
+      "owner": "EASTERN AIR EXPRESS LLC",
+      "operator": "Eastern Air Express",
+      "icao_type": "B737",
+      "basis": "fleet",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-21", "what": "The FAA registers N668CP, a 737-76N, to Eastern Air Express LLC (certificate 2026-08-31).", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=668CP"},
+        {"date": "2025-08-13", "what": "Eastern Air Express was among ICE's top charter subcontractors in July 2025, with GlobalX and Avelo (Witness at the Border).", "source_url": "https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps"},
+        {"date": "2026-10-21", "what": "FAA registry: N668CP is registered to EASTERN AIR EXPRESS LLC, a BOEING 737-76N.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=668CP"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae0d7c",
+      "kind": "aircraft",
+      "name": "CBP UH-60 22718, broadcast hex AE0D7C",
+      "short": "CBP",
+      "hex": "ae0d7c",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-01", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 22718 (serial 77-22718), ICAO hex AE0D7C, at Manassas Air Branch (HEF), callsign TROY 227, last heard by ADS-B 2026-09-01.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae0d5c",
+      "kind": "aircraft",
+      "name": "CBP UH-60 22982, broadcast hex AE0D5C",
+      "short": "CBP",
+      "hex": "ae0d5c",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-23", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 22982 (serial 78-22982), ICAO hex AE0D5C, at Miami AMB (HST), callsign TROY 226, last heard by ADS-B 2026-05-23.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698b",
+      "kind": "aircraft",
+      "name": "CBP UH-60 23010, broadcast hex AE698B",
+      "short": "CBP",
+      "hex": "ae698b",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-03-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 23010 (serial 78-23010), ICAO hex AE698B, at Tucson Air Branch (DMA), callsign TROY 203, last heard by ADS-B 2026-03-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698c",
+      "kind": "aircraft",
+      "name": "CBP UH-60 23320, broadcast hex AE698C",
+      "short": "CBP",
+      "hex": "ae698c",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2025-02-12", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 23320 (serial 79-23320), ICAO hex AE698C, at Bellingham AMB (BLI), last heard by ADS-B 2025-02-12.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae6987",
+      "kind": "aircraft",
+      "name": "CBP UH-60 23321, broadcast hex AE6987",
+      "short": "CBP",
+      "hex": "ae6987",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-04-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 23321 (serial 79-23321), ICAO hex AE6987, at Tucson Air Branch (DMA), callsign TROY 204, last heard by ADS-B 2026-04-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698f",
+      "kind": "aircraft",
+      "name": "CBP UH-60 23465, broadcast hex AE698F",
+      "short": "CBP",
+      "hex": "ae698f",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-08-31", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 23465 (serial 80-23465), ICAO hex AE698F, at NASOC San Angelo, last heard by ADS-B 2026-08-31.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae0d0d",
+      "kind": "aircraft",
+      "name": "CBP UH-60 24641, broadcast hex AE0D0D",
+      "short": "CBP",
+      "hex": "ae0d0d",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 24641 (serial 87-24641), ICAO hex AE0D0D, at Miami AMB (HST), callsign TROY 229, last heard by ADS-B 2026-05-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698e",
+      "kind": "aircraft",
+      "name": "CBP UH-60 25350, broadcast hex AE698E",
+      "short": "CBP",
+      "hex": "ae698e",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2023-03-27", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 25350 (serial 79-23350), ICAO hex AE698E, at Tucson Air Branch (DMA), last heard by ADS-B 2023-03-27.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae6989",
+      "kind": "aircraft",
+      "name": "CBP UH-60 27297 (N7923), broadcast hex AE6989",
+      "short": "CBP",
+      "hex": "ae6989",
+      "registration": "N7923",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "H60",
+      "registered_hex": "aac234",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-08-26", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 27297 (serial 79-23297) as N7923, ICAO hex AE6989, at San Diego AMB (NZY), callsign TROY 201, last heard by ADS-B 2026-08-26.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N7923 is registered to the Department of Homeland Security as a Sikorsky UH-60, serial 79-23297, under hex AAC234 (already on this list); RadioReference reports it broadcasting AE6989.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=7923"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698a",
+      "kind": "aircraft",
+      "name": "CBP UH-60 27747, broadcast hex AE698A",
+      "short": "CBP",
+      "hex": "ae698a",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-04-22", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 27747 (serial 82-23747), ICAO hex AE698A, at Jacksonville AMB (NIP), last heard by ADS-B 2026-04-22.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae0ce1",
+      "kind": "aircraft",
+      "name": "CBP UH-60 28299 (N79232), broadcast hex AE0CE1",
+      "short": "CBP",
+      "hex": "ae0ce1",
+      "registration": "N79232",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "H60",
+      "registered_hex": "aac24f",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-02-10", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 28299 (serial 79-23299) as N79232, ICAO hex AE0CE1, at Manassas Air Branch (HEF), callsign TROY 225, last heard by ADS-B 2026-02-10.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N79232 is registered to the Department of Homeland Security as a Sikorsky UH-60, serial 79-23299, under hex AAC24F (already on this list); RadioReference reports it broadcasting AE0CE1.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=79232"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae698d",
+      "kind": "aircraft",
+      "name": "CBP UH-60 33344, broadcast hex AE698D",
+      "short": "CBP",
+      "hex": "ae698d",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2024-05-07", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 33344 (serial 79-23344), ICAO hex AE698D, at El Paso Air Branch (ELP), last heard by ADS-B 2024-05-07.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae6990",
+      "kind": "aircraft",
+      "name": "CBP UH-60 33670 (N22367), broadcast hex AE6990",
+      "short": "CBP",
+      "hex": "ae6990",
+      "registration": "N22367",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "H60",
+      "registered_hex": "a1ef70",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-07-31", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 33670 (serial 82-23670) as N22367, ICAO hex AE6990, at El Paso Air Branch (ELP), callsign TROY 208, last heard by ADS-B 2026-07-31.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N22367 is registered to the Department of Homeland Security as a Sikorsky UH-60, serial 82-23670, under hex A1EF70 (already on this list); RadioReference reports it broadcasting AE6990.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=22367"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae5642",
+      "kind": "aircraft",
+      "name": "CBP UH-60 35548, broadcast hex AE5642",
+      "short": "CBP",
+      "hex": "ae5642",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-19", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 35548 (serial 86-24548), ICAO hex AE5642, at Tucson Air Branch (DMA), callsign TROY 228, last heard by ADS-B 2026-05-19.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae5641",
+      "kind": "aircraft",
+      "name": "CBP UH-60 35558, broadcast hex AE5641",
+      "short": "CBP",
+      "hex": "ae5641",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-23", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 35558 (serial 86-24558), ICAO hex AE5641, at New Orleans AMB (HDC), callsign TROY 224, last heard by ADS-B 2026-06-23.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae6988",
+      "kind": "aircraft",
+      "name": "CBP UH-60 43423, broadcast hex AE6988",
+      "short": "CBP",
+      "hex": "ae6988",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-08-18", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 43423 (serial 80-23423), ICAO hex AE6988, at McAllen AMB (MFE), callsign TROY 206, last heard by ADS-B 2026-08-18.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae4a86",
+      "kind": "aircraft",
+      "name": "CBP UH-60 72760, broadcast hex AE4A86",
+      "short": "CBP",
+      "hex": "ae4a86",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-07-29", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 72760 (serial 08-27170), ICAO hex AE4A86, at Manassas Air Branch (HEF), callsign TROY 240, last heard by ADS-B 2026-07-29.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae4a89",
+      "kind": "aircraft",
+      "name": "CBP UH-60 72761, broadcast hex AE4A89",
+      "short": "CBP",
+      "hex": "ae4a89",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-08-23", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 72761 (serial 08-27171), ICAO hex AE4A89, at Great Lakes (MTC), callsign TROY 241, last heard by ADS-B 2026-08-23.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae4a87",
+      "kind": "aircraft",
+      "name": "CBP UH-60 72763, broadcast hex AE4A87",
+      "short": "CBP",
+      "hex": "ae4a87",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2024-06-10", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 72763 (serial 08-27172), ICAO hex AE4A87, at Great Lakes (MTC), last heard by ADS-B 2024-06-10.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-uh60-ae4a88",
+      "kind": "aircraft",
+      "name": "CBP UH-60 72764, broadcast hex AE4A88",
+      "short": "CBP",
+      "hex": "ae4a88",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "H60",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-08-04", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists CBP UH-60 72764 (serial 08-20173), ICAO hex AE4A88, at Great Lakes (MTC), callsign TROY 242, last heard by ADS-B 2026-08-04.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4dde",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP241 (N917PS), broadcast hex AE4DDE",
+      "short": "CBP",
+      "hex": "ae4dde",
+      "registration": "N917PS",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb202",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-04", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917PS (CBP241), a General Atomics MQ-9 Block 1, ICAO hex AE4DDE, callsign TROY 704, last heard by ADS-B 2026-06-04.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917PS is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, serial GA-6-1160 (CBP-241), under hex ACB202 (already on this list); the aircraft is reported broadcasting AE4DDE instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917PS"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4ddf",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP216 (N917RS), broadcast hex AE4DDF",
+      "short": "CBP",
+      "hex": "ae4ddf",
+      "registration": "N917RS",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb234",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-27", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917RS (CBP216), a General Atomics MQ-9 Block 1, ICAO hex AE4DDF, callsign TROY 703, last heard by ADS-B 2026-05-27.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917RS is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, serial GA-6-1135 (CBP-216), under hex ACB234 (already on this list); the aircraft is reported broadcasting AE4DDF instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917RS"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a7fb8f",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N613TC (TROY 166), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "a7fb8f",
+      "registration": "N613TC",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-02-02", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N613TC, a AS350B3, ICAO hex A7FB8F, as a CBP aircraft, callsign TROY 166, last heard by ADS-B 2026-02-02.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N613TC is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=613TC"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab01e6",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N808ZT (TROY 055), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab01e6",
+      "registration": "N808ZT",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N808ZT, a Cessna 206H, ICAO hex AB01E6, as a CBP aircraft, callsign TROY 055, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N808ZT is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=808ZT"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab03bc",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809EM (TROY 052), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab03bc",
+      "registration": "N809EM",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-16", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809EM, a Cessna 206H, ICAO hex AB03BC, as a CBP aircraft, callsign TROY 052, last heard by ADS-B 2026-09-16.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809EM is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809EM"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab03f4",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809GT (TROY 051), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab03f4",
+      "registration": "N809GT",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809GT, a Cessna 206H, ICAO hex AB03F4, as a CBP aircraft, callsign TROY 051, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809GT is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809GT"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab0410",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809HW (TROY 059), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab0410",
+      "registration": "N809HW",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-27", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809HW, a Cessna 206H, ICAO hex AB0410, as a CBP aircraft, callsign TROY 059, last heard by ADS-B 2026-09-27.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809HW is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809HW"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab043b",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809KP (TROY 056), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab043b",
+      "registration": "N809KP",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809KP, a Cessna 206H, ICAO hex AB043B, as a CBP aircraft, callsign TROY 056, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809KP is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809KP"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab0453",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809LN (TROY 063), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab0453",
+      "registration": "N809LN",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809LN, a Cessna 206H, ICAO hex AB0453, as a CBP aircraft, callsign TROY 063, last heard by ADS-B 2026-10-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809LN is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809LN"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab047c",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809ND (TROY 061), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab047c",
+      "registration": "N809ND",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809ND, a Cessna 206H, ICAO hex AB047C, as a CBP aircraft, callsign TROY 061, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809ND is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809ND"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab0498",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809PG (TROY 057), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab0498",
+      "registration": "N809PG",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809PG, a Cessna 206H, ICAO hex AB0498, as a CBP aircraft, callsign TROY 057, last heard by ADS-B 2026-10-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809PG is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809PG"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab04b3",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809QJ (TROY 053), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab04b3",
+      "registration": "N809QJ",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809QJ, a Cessna 206H, ICAO hex AB04B3, as a CBP aircraft, callsign TROY 053, last heard by ADS-B 2026-09-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809QJ is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809QJ"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab04cb",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809RH (TROY 064), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab04cb",
+      "registration": "N809RH",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809RH, a Cessna 206H, ICAO hex AB04CB, as a CBP aircraft, callsign TROY 064, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809RH is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809RH"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab04e1",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809SE (TROY 054), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab04e1",
+      "registration": "N809SE",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-05", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809SE, a Cessna 206H, ICAO hex AB04E1, as a CBP aircraft, callsign TROY 054, last heard by ADS-B 2026-10-05.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809SE is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809SE"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab0507",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809TT (TROY 072), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab0507",
+      "registration": "N809TT",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809TT, a Cessna 206H, ICAO hex AB0507, as a CBP aircraft, callsign TROY 072, last heard by ADS-B 2026-10-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809TT is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809TT"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab051f",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809US (TROY 062), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab051f",
+      "registration": "N809US",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-07", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809US, a Cessna 206H, ICAO hex AB051F, as a CBP aircraft, callsign TROY 062, last heard by ADS-B 2026-10-07.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809US is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809US"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-ab0528",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N809VA (TROY 066), registered to T A F Y Consulting",
+      "short": "CBP",
+      "hex": "ab0528",
+      "registration": "N809VA",
+      "owner": "T A F Y CONSULTING",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N809VA, a Cessna 206H, ICAO hex AB0528, as a CBP aircraft, callsign TROY 066, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N809VA is registered to T A F Y CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=809VA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a7ff46",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N614TC (TROY 164), registered to Tafy Consulting",
+      "short": "CBP",
+      "hex": "a7ff46",
+      "registration": "N614TC",
+      "owner": "TAFY CONSULTING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-05", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N614TC, a AS350B3, ICAO hex A7FF46, as a CBP aircraft, callsign TROY 164, last heard by ADS-B 2026-09-05.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N614TC is registered to TAFY CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=614TC"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a94471",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N6968A (TROY 165), registered to Tafy Consulting",
+      "short": "CBP",
+      "hex": "a94471",
+      "registration": "N6968A",
+      "owner": "TAFY CONSULTING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-13", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N6968A, a AS350B3, ICAO hex A94471, as a CBP aircraft, callsign TROY 165, last heard by ADS-B 2026-06-13.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N6968A is registered to TAFY CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=6968A"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a94bbc",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N6987A (TROY 163), registered to Tafy Consulting",
+      "short": "CBP",
+      "hex": "a94bbc",
+      "registration": "N6987A",
+      "owner": "TAFY CONSULTING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2025-09-23", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N6987A, a AS350B3, ICAO hex A94BBC, as a CBP aircraft, callsign TROY 163, last heard by ADS-B 2025-09-23.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N6987A is registered to TAFY CONSULTING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=6987A"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a23bbd",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N243GC (TROY 144), registered to Granite Coast Mapping",
+      "short": "CBP",
+      "hex": "a23bbd",
+      "registration": "N243GC",
+      "owner": "GRANITE COAST MAPPING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-05", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N243GC, a AS350B3, ICAO hex A23BBD, as a CBP aircraft, callsign TROY 144, last heard by ADS-B 2026-09-05.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N243GC is registered to GRANITE COAST MAPPING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=243GC"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-aa8b0f",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N779GC (TROY 152), registered to Granite Coast Mapping",
+      "short": "CBP",
+      "hex": "aa8b0f",
+      "registration": "N779GC",
+      "owner": "GRANITE COAST MAPPING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-02", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N779GC, a AS350B3, ICAO hex AA8B0F, as a CBP aircraft, callsign TROY 152, last heard by ADS-B 2026-09-02.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N779GC is registered to GRANITE COAST MAPPING, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=779GC"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a222b4",
+      "kind": "aircraft",
+      "name": "CBP Cessna 206H N237CA (TROY 060), registered to Central Aviation",
+      "short": "CBP",
+      "hex": "a222b4",
+      "registration": "N237CA",
+      "owner": "CENTRAL AVIATION",
+      "icao_type": "C206",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N237CA, a Cessna 206H, ICAO hex A222B4, as a CBP aircraft, callsign TROY 060, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N237CA is registered to CENTRAL AVIATION, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-a4d8d9",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N411LH, registered to Apex Aeronautical",
+      "short": "CBP",
+      "hex": "a4d8d9",
+      "registration": "N411LH",
+      "owner": "APEX AERONAUTICAL",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-02-25", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N411LH, a AS350B3, ICAO hex A4D8D9, as a CBP aircraft, last heard by ADS-B 2026-02-25.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N411LH is registered to APEX AERONAUTICAL, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=411LH"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-rr-aa1eba",
+      "kind": "aircraft",
+      "name": "CBP Beech B300 N751L (TROY 330), registered to Science And Engineering Services Llc",
+      "short": "CBP",
+      "hex": "aa1eba",
+      "registration": "N751L",
+      "owner": "SCIENCE AND ENGINEERING SERVICES LLC",
+      "icao_type": "B350",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-09-03", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N751L, a Beech B300, ICAO hex AA1EBA, as a CBP aircraft, callsign TROY 330, last heard by ADS-B 2026-09-03.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N751L is registered to SCIENCE AND ENGINEERING SERVICES LLC, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=751L"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-front-tafy-consulting",
+      "kind": "agency",
+      "name": "TAFY Consulting, Bristow, Virginia (CBP aircraft under a private name)",
+      "short": "CBP",
+      "owner_names": ["T A F Y CONSULTING", "TAFY CONSULTING"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-16", "what": "The FAA registers 18 aircraft to T A F Y Consulting (15) and TAFY Consulting (3) of Bristow, Virginia; RadioReference identifies all 18 as CBP aircraft (14 Cessna 206H as TROY 051-072, 4 AS350B3 as TROY 163-166).", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry, owner T A F Y CONSULTING / TAFY CONSULTING: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null,
+      "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
+    },
+    {
+      "id": "us-cbp-front-granite-coast-mapping",
+      "kind": "agency",
+      "name": "Granite Coast Mapping, Coronado, California (CBP aircraft under a private name)",
+      "short": "CBP",
+      "owner_names": ["GRANITE COAST MAPPING"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-16", "what": "The FAA registers 3 AS350B3 to Granite Coast Mapping of Coronado, California; RadioReference identifies 2 of them (N243GC TROY 144, N779GC TROY 152) as CBP aircraft; the third, N617GC, is not in its table.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry, owner GRANITE COAST MAPPING: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null,
+      "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
+    },
+    {
+      "id": "us-cbp-front-central-aviation",
+      "kind": "agency",
+      "name": "Central Aviation, Coronado, California (CBP aircraft under a private name)",
+      "short": "CBP",
+      "owner_names": ["CENTRAL AVIATION"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-16", "what": "The FAA registers one aircraft to Central Aviation of Coronado, California, N237CA, a Cessna 206H, which RadioReference identifies as CBP TROY 060 (a different owner from Central Aviation LLC).", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry, owner CENTRAL AVIATION: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null,
+      "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
+    },
+    {
+      "id": "us-cbp-front-apex-aeronautical",
+      "kind": "agency",
+      "name": "Apex Aeronautical, San Antonio, Texas (CBP aircraft under a private name)",
+      "short": "CBP",
+      "owner_names": ["APEX AERONAUTICAL"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-16", "what": "The FAA registers one aircraft to Apex Aeronautical of San Antonio, Texas, N411LH, an AS350B3, which RadioReference identifies as a CBP aircraft at the San Antonio Air Unit (a different owner from Apex Aeronautical Group LLC).", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry, owner APEX AERONAUTICAL: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null,
+      "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
+    },
+    {
+      "id": "us-cbp-front-science-and-engineering-services",
+      "kind": "agency",
+      "name": "Science and Engineering Services LLC, Huntsville, Alabama (CBP aircraft under a private name)",
+      "short": "CBP",
+      "owner_names": ["SCIENCE AND ENGINEERING SERVICES LLC"],
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-10-16", "what": "The FAA registers 2 Beech B300 to Science and Engineering Services LLC of Huntsville, Alabama; RadioReference identifies one, N751L, as CBP TROY 330 at Corpus Christi; the other, N361E, is not in its table.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry, owner SCIENCE AND ENGINEERING SERVICES LLC: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+      ],
+      "added": "2026-10-29",
+      "cleared": null,
+      "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
     }
   ]
 }
