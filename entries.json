@@ -94,6 +94,132 @@
       ],
       "added": "2026-10-23",
       "cleared": {"date": "2026-10-23", "why": "Not Customs and Border Protection. Its own court complaint says it is a Georgia LLC managed and wholly owned by a private individual, and the sole owner of a Citation CJ4 (N150RC).", "source_url": "https://www.lieffcabraser.com/pdf/TextronAviationComplaint-File-Stamped.pdf"}
+    },
+    {
+      "id": "us-cbp-mq9-ae2fd0",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP113 (N917JA), broadcast hex AE2FD0",
+      "short": "CBP",
+      "hex": "ae2fd0",
+      "registration": "N917JA",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb175",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-04", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917JA (CBP113), a General Atomics MQ-9, ICAO hex AE2FD0, at NASOC San Angelo (SJT), callsign TROY 701, last heard by ADS-B 2026-06-04.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917JA is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB175 (already on this list); the aircraft is reported broadcasting AE2FD0 instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917JA"},
+        {"date": "2025-08-13", "what": "TWZ reported a CBP MQ-9 Guardian as TROY701 out of San Angelo flying deep into Mexico, quoting a post that ties CBP-113 to hex AE2FD0.", "source_url": "https://www.twz.com/air/u-s-mq-9-drone-just-flew-a-mission-deep-into-mexico"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4de0",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP207 (N917LG), broadcast hex AE4DE0",
+      "short": "CBP",
+      "hex": "ae4de0",
+      "registration": "N917LG",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb1ad",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-05-28", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917LG (CBP207), a General Atomics MQ-9, ICAO hex AE4DE0, at NASOC San Angelo (SJT), callsign TROY 702, last heard by ADS-B 2026-05-28.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917LG is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB1AD (already on this list); the aircraft is reported broadcasting AE4DE0 instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917LG"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4bd8",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP108 (N917BF), broadcast hex AE4BD8",
+      "short": "CBP",
+      "hex": "ae4bd8",
+      "registration": "N917BF",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb0cb",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917BF (CBP108), a General Atomics MQ-9, ICAO hex AE4BD8, at NASOC Sierra Vista (FHU), callsign TROY 706, last heard by ADS-B 2026-06-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917BF is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB0CB (already on this list); the aircraft is reported broadcasting AE4BD8 instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917BF"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4bd9",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP110 (N9168S), broadcast hex AE4BD9",
+      "short": "CBP",
+      "hex": "ae4bd9",
+      "registration": "N9168S",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb076",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N9168S (CBP110), a General Atomics MQ-9, ICAO hex AE4BD9, at NASOC Sierra Vista (FHU), callsign TROY 707, last heard by ADS-B 2026-06-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N9168S is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB076 (already on this list); the aircraft is reported broadcasting AE4BD9 instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=9168S"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-ae4bda",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP119 (N917KU), broadcast hex AE4BDA",
+      "short": "CBP",
+      "hex": "ae4bda",
+      "registration": "N917KU",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb1a0",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-06", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917KU (CBP119), a General Atomics MQ-9, ICAO hex AE4BDA, at NASOC Sierra Vista (FHU), callsign TROY 708, last heard by ADS-B 2026-06-06.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917KU is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB1A0 (already on this list); the aircraft is reported broadcasting AE4BDA instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917KU"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-af8421",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP245 (N230LG), broadcast hex AF8421",
+      "short": "CBP",
+      "hex": "af8421",
+      "registration": null,
+      "owner": "U.S. CUSTOMS AND BORDER PROTECTION",
+      "icao_type": "Q9",
+      "registered_hex": null,
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-04", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N230LG (CBP245), a General Atomics MQ-9, ICAO hex AF8421, at NASOC Grand Forks (RDR), callsign TROY 709, last heard by ADS-B 2026-06-04.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
+    },
+    {
+      "id": "us-cbp-mq9-af3cb5",
+      "kind": "aircraft",
+      "name": "CBP MQ-9 CBP125 (N917HA), broadcast hex AF3CB5",
+      "short": "CBP",
+      "hex": "af3cb5",
+      "registration": "N917HA",
+      "owner": "DEPARTMENT OF HOMELAND SECURITY",
+      "icao_type": "Q9",
+      "registered_hex": "acb15c",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2026-06-02", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N917HA (CBP125), a General Atomics MQ-9, ICAO hex AF3CB5, at NASOC San Angelo (SJT), callsign TROY 710, last heard by ADS-B 2026-06-02.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
+        {"date": "2026-10-21", "what": "FAA registry: N917HA is registered to the Department of Homeland Security as a General Atomics MQ-9 Block 1, under hex ACB15C (already on this list); the aircraft is reported broadcasting AF3CB5 instead.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=917HA"}
+      ],
+      "added": "2026-10-28",
+      "cleared": null
     }
   ]
 }
