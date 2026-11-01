@@ -62,6 +62,7 @@ Every aircraft carries an ICAO type designator. It comes from `faa_icao_types.cs
 
 * Registration data: FAA Releasable Aircraft Database, a public US government record.
 * Detections: ADS-B positions from community receiver networks, credited in each detection's evidence.
+* Aircraft added because they flew an ICE Air call sign, or because a named ICE carrier came down at an ICE staging hub: adsb.lol's daily historical data (https://adsb.lol), ODbL 1.0. Each such entry links its adsb.lol trace.
 * The data is licensed under the Open Database License (ODbL) 1.0. See `DATA_LICENSE.md`.
 
 Not affiliated with or endorsed by any government agency.
