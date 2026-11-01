@@ -21,11 +21,12 @@
       "kind": "agency",
       "name": "Texas Department of Public Safety, Aircraft Operations Division",
       "short": "TX DPS",
-      "owner_names": ["TEXAS DEPARTMENT OF PUBLIC SAFETY", "DEPARTMENT OF PUBLIC SAFETY OF THE STATE OF TEXAS"],
+      "owner_names": ["TEXAS DEPARTMENT OF PUBLIC SAFETY", "DEPARTMENT OF PUBLIC SAFETY OF THE STATE OF TEXAS", "TEXAS DEPT OF PUBLIC SAFETY"],
       "status": "sourced",
       "evidence": [
         {"date": "2023-01-27", "what": "Texas governor's Operation Lone Star release: DPS aircraft helped apprehend 15 people, all referred to Border Patrol.", "source_url": "https://gov.texas.gov/news/post/operation-lone-star-deploys-hi-tech-assets-to-stop-illegal-crossings"},
-        {"date": "2026-07-09", "what": "A DPS helicopter flew overhead during a Liberty County Precinct 4 Constable operation with ICE; the people it spotted were caught and turned over to ICE.", "source_url": "https://bluebonnetnews.com/2026/07/09/liberty-county-pct-4-ice-capture-12-illegal-aliens-in-dayton-area/"}
+        {"date": "2026-07-09", "what": "A DPS helicopter flew overhead during a Liberty County Precinct 4 Constable operation with ICE; the people it spotted were caught and turned over to ICE.", "source_url": "https://bluebonnetnews.com/2026/07/09/liberty-county-pct-4-ice-capture-12-illegal-aliens-in-dayton-area/"},
+        {"date": "2026-11-01", "what": "FAA registry: the Department also registers aircraft as TEXAS DEPT OF PUBLIC SAFETY, at its Aircraft Operations address, 10335 Golfcourse Rd, Austin, where its aircraft under its full name are registered (N191TX and N556TX, AS350B3; N215TX, Cessna 208; registry download of 2026-11-01).", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=191TX"}
       ],
       "added": "2026-10-23",
       "cleared": null
@@ -1720,6 +1721,24 @@
       "cleared": null
     },
     {
+      "id": "us-cbp-asn-a80958",
+      "kind": "aircraft",
+      "name": "CBP AS350B3 N617GC, registered to Granite Coast Mapping (crashed 2024-12-16)",
+      "short": "CBP",
+      "hex": "a80958",
+      "registration": "N617GC",
+      "owner": "GRANITE COAST MAPPING",
+      "icao_type": "AS50",
+      "status": "sourced",
+      "evidence": [
+        {"date": "2024-12-16", "what": "Aviation Safety Network's record of N617GC's accident near Potrero, California, on 2024-12-16 gives the operator as Granite Coast Mapping, operated by CBP, and quotes the NTSB: a CBP representative said the helicopter was on a routine aerial support mission, a public-use flight from Brown Field, San Diego. The pilot was killed and the helicopter substantially damaged.", "source_url": "https://aviation-safety.net/wikibase/466847"},
+        {"date": "2024-12-16", "what": "NBC San Diego reported the crash near Potrero, close to the US-Mexico border, and that the AS350 B3 belonged to Granite Coast Mapping, a company with a Coronado address.", "source_url": "https://nbcsandiego.com/news/local/1-dead-helicopter-crashes-far-east-san-diego-county/3702060/"},
+        {"date": "2026-11-01", "what": "FAA registry: N617GC (hex A80958, serial 4676) is still registered to Granite Coast Mapping, PO Box 180256, Coronado, California.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=617GC"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
       "id": "us-cbp-rr-a222b4",
       "kind": "aircraft",
       "name": "CBP Cessna 206H N237CA (TROY 060), registered to Central Aviation",
@@ -1731,7 +1750,8 @@
       "status": "sourced",
       "evidence": [
         {"date": "2026-10-08", "what": "RadioReference wiki's CBP Air and Marine table (community-edited) lists N237CA, a Cessna 206H, ICAO hex A222B4, as a CBP aircraft, callsign TROY 060, last heard by ADS-B 2026-10-08.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
-        {"date": "2026-10-21", "what": "FAA registry: N237CA is registered to CENTRAL AVIATION, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"}
+        {"date": "2026-10-21", "what": "FAA registry: N237CA is registered to CENTRAL AVIATION, a private company, not to an agency.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"},
+        {"date": "2026-11-01", "what": "FAA registry: N237CA (hex A222B4, Cessna 206H serial 20608239), the only aircraft Central Aviation held, was re-registered on 2026-10-22 to the Department of Homeland Security, other name Customs and Border Protection (registry download of 2026-11-01). The download of 2026-10-21 still shows it registered to Central Aviation, PO Box 180256, Coronado, California, since 2018-07-13.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"}
       ],
       "added": "2026-10-29",
       "cleared": null
@@ -1794,7 +1814,8 @@
       "status": "sourced",
       "evidence": [
         {"date": "2026-10-16", "what": "The FAA registers 3 AS350B3 to Granite Coast Mapping of Coronado, California; RadioReference identifies 2 of them (N243GC TROY 144, N779GC TROY 152) as CBP aircraft; the third, N617GC, is not in its table.", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
-        {"date": "2026-10-21", "what": "FAA registry, owner GRANITE COAST MAPPING: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+        {"date": "2026-10-21", "what": "FAA registry, owner GRANITE COAST MAPPING: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"},
+        {"date": "2026-11-01", "what": "FAA registry: Granite Coast Mapping's address, PO Box 180256, Coronado, California, is also the address of Central Aviation, whose only aircraft, N237CA, RadioReference identifies as CBP TROY 060 and the FAA re-registered to the Department of Homeland Security, Customs and Border Protection, on 2026-10-22 (entry us-cbp-front-central-aviation).", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"}
       ],
       "added": "2026-10-29",
       "cleared": null,
@@ -1809,7 +1830,9 @@
       "status": "sourced",
       "evidence": [
         {"date": "2026-10-16", "what": "The FAA registers one aircraft to Central Aviation of Coronado, California, N237CA, a Cessna 206H, which RadioReference identifies as CBP TROY 060 (a different owner from Central Aviation LLC).", "source_url": "https://wiki.radioreference.com/index.php/CBP_Office_of_Air_and_Marine"},
-        {"date": "2026-10-21", "what": "FAA registry, owner CENTRAL AVIATION: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"}
+        {"date": "2026-10-21", "what": "FAA registry, owner CENTRAL AVIATION: the aircraft above.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NameInquiry"},
+        {"date": "2026-11-01", "what": "FAA registry: N237CA (hex A222B4, Cessna 206H serial 20608239), the only aircraft Central Aviation held, was re-registered on 2026-10-22 to the Department of Homeland Security, other name Customs and Border Protection (registry download of 2026-11-01). The download of 2026-10-21 still shows it registered to Central Aviation, PO Box 180256, Coronado, California, since 2018-07-13.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=237CA"},
+        {"date": "2026-11-01", "what": "FAA registry: Central Aviation's address, PO Box 180256, Coronado, California, is also the registered address of Granite Coast Mapping, whose three AS350B3s are CBP aircraft (entry us-cbp-front-granite-coast-mapping). No other aircraft has been registered at that box (current and deregistered records, 2026-10-21 and 2026-11-01).", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=243GC"}
       ],
       "added": "2026-10-29",
       "cleared": null,
