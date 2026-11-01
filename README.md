@@ -25,7 +25,7 @@ Status is one of:
 
 * `sourced`: published evidence links the entry to the work described.
 * `detected_unconfirmed`: an ADS-B behaviour detector found it, and the evidence says what was seen. **This is not a finding that the aircraft took part in immigration enforcement.** A detected aircraft is published only when its registrant is a government body or a listed contractor or front company, or when research finds it involved.
-* `ice_air_charter`: an airliner that published evidence ties to ICE Air charter flights, the deportation and transfer flights charter airlines fly for ICE under contract. **The airframe flies other work too, so this is not a finding that any one flight is an ICE flight.** Added 2026-10-29.
+* `ice_air_charter`: an airliner or charter jet that published evidence ties to ICE Air charter flights, the deportation and transfer flights charter airlines fly for ICE under contract. **The airframe flies other work too, so this is not a finding that any one flight is an ICE flight.** Added 2026-10-29.
 * `cleared`: found not to be involved. Cleared entries stay in the file with the reason and the source.
 
 **Entries are only ever added.** One leaves the active list only when it is found not to be involved, and it stays in the file as `cleared`.
