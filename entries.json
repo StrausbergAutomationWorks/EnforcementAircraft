@@ -1889,6 +1889,477 @@
       ],
       "added": "2026-10-31",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a3ec5c",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Gulfstream Aerospace G-IV N352BH, hex A3EC5C",
+      "short": "ICE",
+      "hex": "a3ec5c",
+      "registration": "N352BH",
+      "owner": "GLE 1393 LLC",
+      "operator": "",
+      "icao_type": "GLF4",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX12, heard for 543 minutes (EPRZ (Jasionka) to EINN (Shannon), 08:30Z-11:23Z; EINN (Shannon) to ?, 12:27Z-13:07Z; CCZ3 (Clarenville) to CCP2 (Exploits Valley), 16:18Z-16:39Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a3ec5c&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N352BH is registered to GLE 1393 LLC, a GULFSTREAM AEROSPACE G-IV.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=352BH"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a4da2b",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N411ZW, hex A4DA2B",
+      "short": "ICE",
+      "hex": "a4da2b",
+      "registration": "N411ZW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7164 AWI7264 AWI7364 and came down at Alexandria LA (AEX), Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a4da2b&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N411ZW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=411ZW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a4e6c8",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N415AW, hex A4E6C8",
+      "short": "ICE",
+      "hex": "a4e6c8",
+      "registration": "N415AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7174 AWI7274 AWI2420 and came down at Alexandria LA (AEX), Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a4e6c8&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N415AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=415AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a4fbb4",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N420AW, hex A4FBB4",
+      "short": "ICE",
+      "hex": "a4fbb4",
+      "registration": "N420AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7415 AWI7515 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a4fbb4&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N420AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=420AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a50e47",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N425AW, hex A50E47",
+      "short": "ICE",
+      "hex": "a50e47",
+      "registration": "N425AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7132 AWI7232 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a50e47&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N425AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=425AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a52e58",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N433AW, hex A52E58",
+      "short": "ICE",
+      "hex": "a52e58",
+      "registration": "N433AW",
+      "owner": "AIR WISCONSIN AIRLINES LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7158 AWI7258 AWI7358 AWI7458 and came down at Phoenix-Mesa AZ (IWA), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a52e58&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N433AW is registered to AIR WISCONSIN AIRLINES LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=433AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a535c6",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N435AW, hex A535C6",
+      "short": "ICE",
+      "hex": "a535c6",
+      "registration": "N435AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7449 AWI7549 AWI7649 and came down at Alexandria LA (AEX), Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a535c6&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N435AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=435AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a540eb",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N438AW, hex A540EB",
+      "short": "ICE",
+      "hex": "a540eb",
+      "registration": "N438AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI7129 AWI7229 AWI7329 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a540eb&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N438AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=438AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a55bcd",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N444ZW, hex A55BCD",
+      "short": "ICE",
+      "hex": "a55bcd",
+      "registration": "N444ZW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Flew as AWI2405 AWI7274 and came down at Alexandria LA (AEX), Phoenix-Mesa AZ (IWA), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a55bcd&showTrace=2026-10-29"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N444ZW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=444ZW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a695f9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Airbus A320-233 N523VL, hex A695F9",
+      "short": "ICE",
+      "hex": "a695f9",
+      "registration": "N523VL",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "",
+      "icao_type": "A320",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX24, heard for 192 minutes (KAEX (Alexandria) to KOPF (Miami), 09:45Z-11:25Z; KOPF (Miami) to MYAB (Mangrove Cay), 13:11Z-13:36Z; MYAB (Mangrove Cay) to CU-0073 (La Habana), 16:54Z-17:37Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a695f9&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N523VL is registered to UMB BANK NA TRUSTEE, a AIRBUS A320-233.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=523VL"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a81467",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Gulfstream Aerospace G-V N62FF, hex A81467",
+      "short": "ICE",
+      "hex": "a81467",
+      "registration": "N62FF",
+      "owner": "PSALM 52:8 LLC",
+      "operator": "",
+      "icao_type": "GLF5",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX10, heard for 224 minutes (KIWA (Mesa) to KFLL (Fort Lauderdale), 13:00Z-16:34Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a81467&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N62FF is registered to PSALM 52:8 LLC, a GULFSTREAM AEROSPACE G-V.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=62FF"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a96199",
+      "kind": "aircraft",
+      "name": "ICE Air charter: B737 N703VL, hex A96199",
+      "short": "ICE",
+      "hex": "a96199",
+      "registration": "N703VL",
+      "owner": "",
+      "operator": "",
+      "icao_type": "B737",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX35, heard for 303 minutes (KELP (El Paso) to KDAL (Dallas), 11:26Z-12:47Z; KDAL (Dallas) to XS67 (Rockport), 15:36Z-16:34Z; MX-0842 (Paraíso) to MX-0526 (Pichucalco), 17:28Z-17:47Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a96199&showTrace=2026-10-29"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ab6081",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Key Lime Air Embraer EMB-145LR N832HK, hex AB6081",
+      "short": "ICE",
+      "hex": "ab6081",
+      "registration": "N832HK",
+      "owner": "CBG LLC",
+      "operator": "Key Lime Air",
+      "icao_type": "E145",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX27, heard for 102 minutes (KAEX (Alexandria) to KBHM (Birmingham), 11:37Z-12:25Z; KBHM (Birmingham) to KAEX (Alexandria), 13:43Z-14:37Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=ab6081&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N832HK is registered to CBG LLC, a EMBRAER EMB-145LR.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=832HK"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ad92cf",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Key Lime Air Embraer EMB-145XR N974DC, hex AD92CF",
+      "short": "ICE",
+      "hex": "ad92cf",
+      "registration": "N974DC",
+      "owner": "CBG LLC",
+      "operator": "Key Lime Air",
+      "icao_type": "E45X",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX49, heard for 259 minutes (KAEX (Alexandria) to KRIC (Richmond), 12:11Z-14:09Z; KRIC (Richmond) to KAEX (Alexandria), 15:31Z-17:54Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=ad92cf&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N974DC is registered to CBG LLC, a EMBRAER EMB-145XR.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=974DC"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ad9686",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Key Lime Air Embraer EMB-145XR N975DC, hex AD9686",
+      "short": "ICE",
+      "hex": "ad9686",
+      "registration": "N975DC",
+      "owner": "CBG LLC",
+      "operator": "Key Lime Air",
+      "icao_type": "E45X",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-29", "what": "Broadcast ICE Air's call sign VELUX54, heard for 277 minutes (KIWA (Mesa) to KBFL (Bakersfield), 15:34Z-16:52Z; KBFL (Bakersfield) to KBIF (Fort Bliss/El Paso), 18:18Z-20:00Z; KELP (El Paso) to KSLC (Salt Lake City), 21:07Z-22:39Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=ad9686&showTrace=2026-10-29"},
+        {"date": "2026-11-01", "what": "FAA registry: N975DC is registered to CBG LLC, a EMBRAER EMB-145XR.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=975DC"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a4df5a",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N413AW, hex A4DF5A",
+      "short": "ICE",
+      "hex": "a4df5a",
+      "registration": "N413AW",
+      "owner": "AIR WISCONSIN AIRLINES LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as AWI7440 AWI7396 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a4df5a&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N413AW is registered to AIR WISCONSIN AIRLINES LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=413AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a4ea7f",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N416AW, hex A4EA7F",
+      "short": "ICE",
+      "hex": "a4ea7f",
+      "registration": "N416AW",
+      "owner": "CSI AVIATION LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as AWI7150 AWI7250 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a4ea7f&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N416AW is registered to CSI AVIATION LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=416AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a58fe9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N458AW, hex A58FE9",
+      "short": "ICE",
+      "hex": "a58fe9",
+      "registration": "N458AW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as AWI7453 AWI7553 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a58fe9&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N458AW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=458AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a5b768",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N468AW, hex A5B768",
+      "short": "ICE",
+      "hex": "a5b768",
+      "registration": "N468AW",
+      "owner": "AIR WISCONSIN AIRLINES LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as AWI2401 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a5b768&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N468AW is registered to AIR WISCONSIN AIRLINES LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=468AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a5bb1f",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N469AW, hex A5BB1F",
+      "short": "ICE",
+      "hex": "a5bb1f",
+      "registration": "N469AW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as AWI7165 AWI7265 AWI7365 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a5bb1f&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N469AW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=469AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a960a9",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Airlines Boeing 767-336 N703KW, hex A960A9",
+      "short": "ICE",
+      "hex": "a960a9",
+      "registration": "N703KW",
+      "owner": "EASTERN AIRLINES LLC",
+      "operator": "Eastern Airlines",
+      "icao_type": "B763",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Broadcast ICE Air's call sign VELUX16, heard for 28 minutes (PHNL (Honolulu, Oahu) to 18HI (Port Saint Joe), 23:45Z-23:57Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a960a9&showTrace=2026-10-30"},
+        {"date": "2026-11-01", "what": "FAA registry: N703KW is registered to EASTERN AIRLINES LLC, a BOEING 767-336.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=703KW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-aa6db4",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Eastern Airlines Boeing 777-212 N771KW, hex AA6DB4",
+      "short": "ICE",
+      "hex": "aa6db4",
+      "registration": "N771KW",
+      "owner": "EAL ASSET HOLDINGS LLC",
+      "operator": "Eastern Airlines",
+      "icao_type": "B772",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-30", "what": "Flew as EAL8270 EAL8271 EAL8272 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=aa6db4&showTrace=2026-10-30"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: Eastern Airlines flies ICE Air removal and transfer flights (5 planes, 527 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N771KW is registered to EAL ASSET HOLDINGS LLC, a BOEING 777-212.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=771KW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a55220",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N442AW, hex A55220",
+      "short": "ICE",
+      "hex": "a55220",
+      "registration": "N442AW",
+      "owner": "AIR WISCONSIN AIRLINES LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-31", "what": "Flew as AWI2403 AWI7145 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a55220&showTrace=2026-10-31"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N442AW is registered to AIR WISCONSIN AIRLINES LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=442AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a5810d",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N454AW, hex A5810D",
+      "short": "ICE",
+      "hex": "a5810d",
+      "registration": "N454AW",
+      "owner": "AIR WISCONSIN AIRLINES LLC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-10-31", "what": "Flew as AWI7160 AWI7260 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a5810d&showTrace=2026-10-31"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N454AW is registered to AIR WISCONSIN AIRLINES LLC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=454AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
     }
   ]
 }
