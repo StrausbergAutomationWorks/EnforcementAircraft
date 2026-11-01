@@ -1844,6 +1844,51 @@
       "added": "2026-10-29",
       "cleared": null,
       "note": "Owner-name entry AND single-aircraft entries for its named aircraft (Lee 2026-10-29): if the company renames itself, the single-aircraft entries keep those aircraft listed."
+    },
+    {
+      "id": "ice-air-charter-a63864",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Talon Air Gulfstream G-V N50JE, hex A63864",
+      "short": "ICE",
+      "hex": "a63864",
+      "registration": "N50JE",
+      "owner": "IN50JE LLC",
+      "operator": "Talon Air",
+      "icao_type": "GLF5",
+      "basis": "airframe",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N50JE is on Talon Air LLC's FAA Part 135 operations specifications (OpSpec D085, certificate OZTA, Farmingdale), so it flies on-demand charter.", "source_url": "https://thejetfinder.com/operators/talon-air-llc.html"},
+        {"date": "2026-10-30", "what": "Broadcast ICE Air's call sign VELUX13 over Illinois and Indiana at about 47,000 ft, 06:14-06:36 UTC.", "source_url": "https://globe.adsbexchange.com/?icao=a63864&showTrace=2026-10-30"},
+        {"date": null, "what": "Seen on ADS-B Exchange broadcasting TYSON34, another ICE Air call sign.", "source_url": "https://globe.adsbexchange.com/?icao=a63864"},
+        {"date": "2026-10-31", "what": "Flew as VELUX13 from Phoenix to San Juan, Puerto Rico, then east over the Atlantic toward Africa.", "source_url": "https://globe.adsbexchange.com/?icao=a63864&showTrace=2026-10-31"},
+        {"date": null, "what": "ICE Air's long-distance removal flights, to Africa, the Pacific and Europe, are flown on chartered Gulfstream jets.", "source_url": "https://avgeekery.com/?p=44711"},
+        {"date": "2026-10-21", "what": "FAA registry: N50JE is registered to IN50JE LLC, a GULFSTREAM AEROSPACE G-V.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=50JE"}
+      ],
+      "added": "2026-10-31",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a466c3",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Journey Aviation Gulfstream G-IV N383DJ, hex A466C3",
+      "short": "ICE",
+      "hex": "a466c3",
+      "registration": "N383DJ",
+      "owner": "GIV INVESTORS LLC",
+      "operator": "Journey Aviation",
+      "icao_type": "GLF4",
+      "basis": "airframe",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": null, "what": "N383DJ is on the Part 135 certificate of Journey Aviation, a Boca Raton (KBCT) Gulfstream charter operator.", "source_url": "https://skyaccess.com/operators/journey-aviation"},
+        {"date": null, "what": "Journey Aviation offers charter services for government personnel and agencies.", "source_url": "https://theflyingengineer.com/listing/journey-aviation/"},
+        {"date": "2026-10-30", "what": "Broadcast ICE Air's call sign VELUX11 over Illinois, Indiana and Ohio at about 45,000 ft, 17:59-18:37 UTC.", "source_url": "https://globe.adsbexchange.com/?icao=a466c3&showTrace=2026-10-30"},
+        {"date": null, "what": "ICE Air's long-distance removal flights, to Africa, the Pacific and Europe, are flown on chartered Gulfstream jets.", "source_url": "https://avgeekery.com/?p=44711"},
+        {"date": "2026-10-21", "what": "FAA registry: N383DJ is registered to GIV INVESTORS LLC, a GULFSTREAM AEROSPACE G-IV.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=383DJ"}
+      ],
+      "added": "2026-10-31",
+      "cleared": null
     }
   ]
 }
