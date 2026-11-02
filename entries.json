@@ -2383,6 +2383,26 @@
       ],
       "added": "2026-11-01",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a5a88c",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N464AW, hex A5A88C",
+      "short": "ICE",
+      "hex": "a5a88c",
+      "registration": "N464AW",
+      "owner": "CSI AVIATION INC",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-01", "what": "Flew as AWI2401 AWI7118 AWI7218 AWI7318 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a5a88c&showTrace=2026-11-01"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N464AW is registered to CSI AVIATION INC, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=464AW"}
+      ],
+      "added": "2026-11-01",
+      "cleared": null
     }
   ]
 }
