@@ -2403,6 +2403,26 @@
       ],
       "added": "2026-11-01",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a5ac43",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N465AW, hex A5AC43",
+      "short": "ICE",
+      "hex": "a5ac43",
+      "registration": "N465AW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-02", "what": "Flew as AWI2412 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a5ac43&showTrace=2026-11-02"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N465AW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=465AW"}
+      ],
+      "added": "2026-11-02",
+      "cleared": null
     }
   ]
 }
