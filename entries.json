@@ -2423,6 +2423,45 @@
       ],
       "added": "2026-11-02",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a593a0",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Air Wisconsin Bombardier Inc CL-600-2B19 N459AW, hex A593A0",
+      "short": "ICE",
+      "hex": "a593a0",
+      "registration": "N459AW",
+      "owner": "UMB BANK NA TRUSTEE",
+      "operator": "Air Wisconsin",
+      "icao_type": "CRJ2",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-03", "what": "Flew as AWI2420 and came down at Killeen TX (GRK), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a593a0&showTrace=2026-11-03"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7: ICE Air buys its flights through the broker CSI Aviation, which bought Air Wisconsin's operating licence and part of its fleet in January 2026; ICE flights still fly under the Air Wisconsin brand, the largest ICE Air fleet (24 planes, 3,839 flights in 2026 to September).", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-01", "what": "FAA registry: N459AW is registered to UMB BANK NA TRUSTEE, a BOMBARDIER INC CL-600-2B19.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=459AW"}
+      ],
+      "added": "2026-11-03",
+      "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a79bdb",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Gulfstream Aerospace G-V N59JE, hex A79BDB",
+      "short": "ICE",
+      "hex": "a79bdb",
+      "registration": "N59JE",
+      "owner": "IN59JE LLC",
+      "operator": "",
+      "icao_type": "GLF5",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-03", "what": "Broadcast ICE Air's call sign VELUX13, heard for 368 minutes (KIWA (Mesa) to KBGR (Bangor), 15:24Z-19:59Z; KBGR (Bangor) to CYGR (Les Îles-de-la-Madeleine), 20:56Z-21:47Z; CCP2 (Exploits Valley) to CYYT (St. John's), 22:09Z-22:35Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a79bdb&showTrace=2026-11-03"},
+        {"date": "2026-11-01", "what": "FAA registry: N59JE is registered to IN59JE LLC, a GULFSTREAM AEROSPACE G-V.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=59JE"}
+      ],
+      "added": "2026-11-03",
+      "cleared": null
     }
   ]
 }
