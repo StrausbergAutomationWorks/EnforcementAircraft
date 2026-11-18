@@ -2541,6 +2541,25 @@
       ],
       "added": "2026-11-13",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-a793b2",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Gulfstream Aerospace G-V N588AT, hex A793B2",
+      "short": "ICE",
+      "hex": "a793b2",
+      "registration": "N588AT",
+      "owner": "TANNJETS AEROSPACE I LLC",
+      "operator": "",
+      "icao_type": "GLF5",
+      "basis": "callsign",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-17", "what": "Broadcast ICE Air's call sign VELUX10, heard for 485 minutes (KIWA (Mesa) to CMN5 (Manicouagan), 07:29Z-12:00Z; ? to EINN (Shannon), 15:51Z-16:32Z; EINN (Shannon) to RO-0071 (Mânăstirea), 17:51Z-20:43Z), in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=a793b2&showTrace=2026-11-17"},
+        {"date": "2026-11-16", "what": "FAA registry: N588AT is registered to TANNJETS AEROSPACE I LLC, a GULFSTREAM AEROSPACE G-V.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=588AT"}
+      ],
+      "added": "2026-11-17",
+      "cleared": null
     }
   ]
 }
