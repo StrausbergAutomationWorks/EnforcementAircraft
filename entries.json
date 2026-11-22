@@ -2560,6 +2560,26 @@
       ],
       "added": "2026-11-17",
       "cleared": null
+    },
+    {
+      "id": "ice-air-charter-ad9df4",
+      "kind": "aircraft",
+      "name": "ICE Air charter: Key Lime Air Embraer EMB-145LR N977DC, hex AD9DF4",
+      "short": "ICE",
+      "hex": "ad9df4",
+      "registration": "N977DC",
+      "owner": "CBG LLC",
+      "operator": "Key Lime Air",
+      "icao_type": "E145",
+      "basis": "carrier_hub",
+      "status": "ice_air_charter",
+      "evidence": [
+        {"date": "2026-11-21", "what": "Flew as LYM978 NASH28 and came down at Alexandria LA (AEX), an ICE Air staging hub, in adsb.lol's open data (ODbL 1.0), found by SAW's daily review.", "source_url": "https://adsb.lol/?icao=ad9df4&showTrace=2026-11-21"},
+        {"date": "2026-10", "what": "ICE Flight Monitor (Human Rights First), September 2026 report, pp. 6-7, 9: Key Lime flies ICE Air domestic transfer flights (7 planes, 1,748 flights in 2026 to September) and nearly all of them at Harrisburg PA and Bedford MA.", "source_url": "https://www.humanrightsfirst.org/ice-flight-monitor"},
+        {"date": "2026-11-16", "what": "FAA registry: N977DC is registered to CBG LLC, a EMBRAER EMB-145LR.", "source_url": "https://registry.faa.gov/aircraftinquiry/Search/NNumberResult?NNumberTxt=977DC"}
+      ],
+      "added": "2026-11-21",
+      "cleared": null
     }
   ]
 }
